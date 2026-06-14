@@ -55,7 +55,7 @@ export const experience = [
 ]
 
 export const testimonials = [
-  { av: 'SL', quote: "Aarav's video ads completely changed our launch. We hit 5x ROAS in the first month — something no agency had ever done for us.", nm: 'Sara Lin', rl: 'Founder, Lumina Skincare' },
+  { av: 'SL', quote: "Tanay's video ads completely changed our launch. We hit 5x ROAS in the first month — something no agency had ever done for us.", nm: 'Sara Lin', rl: 'Founder, Lumina Skincare' },
   { av: 'MK', quote: 'He thinks like a growth partner, not a vendor. Our cost per acquisition dropped 41% while we scaled spend 3x.', nm: 'Marcus Kade', rl: 'CMO, Nomad Coffee' },
   { av: 'PV', quote: 'The creative and the data finally spoke to each other. Demo requests more than tripled in one quarter.', nm: 'Priya Verma', rl: 'Head of Growth, FinPilot' },
 ]
